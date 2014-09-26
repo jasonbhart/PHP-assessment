@@ -1,5 +1,7 @@
 <?php
 
+namespace interview;
+
 class Config_Database
 {
 
