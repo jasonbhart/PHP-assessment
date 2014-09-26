@@ -19,5 +19,5 @@ Instructions
 10. Run unit tests to see failures
 11. Make failing unit tests pass by fixing the code. Do not change the unit tests.
 12. Push all changes back to your forked repository
-13. Create a ‘README.md’ file with the output of all the unit tests passing and add the file to the forked repository
+13. Replace that ‘README.md’ file with the output of all the unit tests passing
 14. Create a Pull Request to integrate the fixed code back into the master repository. The Pull Request will ultimately not be merged but will signal your completion of the skills assessment.
