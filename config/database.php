@@ -18,8 +18,7 @@ class Config_Database
     //--------------------------------------------------------------------------
 
 
-    public function getPort()
-    {
+    public function getPort{
         return $this->credentials['port'];
     }
     //--------------------------------------------------------------------------

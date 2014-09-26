@@ -1,12 +1,10 @@
 <?php
 
-class Database
-{
+class Database {
     protected $link;
     protected $connected;
 
-    public function __construct()
-    {
+    public function __construct() {
         $credentials = new Config_Database();
 
         try {
