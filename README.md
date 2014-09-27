@@ -9,7 +9,7 @@ Instructions
 
 1. Create a Github account if you don’t have one already
 2. Send an email to jason@leadwrench.com with the subject of “PHP Skills Assessment” and include your Github account ID in the body. You will have 2 hours to complete the assessment from the time you send this email.
-3. Fork the repository at: https://github.com/edgeprod/PHP-assesment into your account
+3. Fork the repository at: https://github.com/edgeprod/PHP-assessment into your account
 4. Pull your forked repository into your IDE
 5. Fix any PHP syntax errors you find. Errors have been intentionally placed in the code. 
 6. Modify code to meet PSR-1 and PSR-2 code style guidelines (hint: use PHP CodeSniffer)
