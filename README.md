@@ -25,4 +25,4 @@ Instructions
 14. Create a Pull Request to integrate the fixed code back into the master repository. The Pull Request will ultimately 
     not be merged but will signal your completion of the skills assessment.
 
-Please ask for clarification if this is a question. Guessing an answer to an ambiguous directive will count against you.
+Please ask for clarification if you have a question. Guessing an answer to an ambiguous directive will count against you.
